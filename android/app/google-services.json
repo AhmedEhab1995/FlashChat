@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297399857440",
+    "project_id": "flash-chat-4a5b5",
+    "storage_bucket": "flash-chat-4a5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297399857440:android:8d34a9ff4d0fb012d4e745",
+        "android_client_info": {
+          "package_name": "co.BoogyApps.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297399857440-o6slo4pfj91f6dqn9d96k5p7c3lglpv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBatuS73zFlmPOmQjsRiW14XFgowPnPPwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297399857440-o6slo4pfj91f6dqn9d96k5p7c3lglpv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
